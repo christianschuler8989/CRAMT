@@ -62,7 +62,8 @@
 This tool aims to support low-resource language collection for Machine Translation.
 
 
-[![Project Poster Screen Shot][project-poster-expo-png]](https://github.com/christianschuler8989/CRAMT/images/2024-CRAMT_Poster_Expo-Schuler_Tran_Saurty_Wang_Ahmad_Yimam.pdf)
+[![Project Poster Screen Shot][project-poster-expo-png]](images/2024-CRAMT_Poster_Expo-Schuler_Tran_Saurty_Wang_Ahmad_Yimam.pdf)
+
 
 - [CRAMT-Slides](https://github.com/christianschuler8989/CRAMT-Slides)
 
@@ -131,5 +132,4 @@ A list of helpful resources we would like to give credit to:
 [issues-url]: https://github.com/christianschuler8989/CRAMT/issues
 [license-shield]: https://img.shields.io/github/license/christianschuler8989/CRAMT.svg?style=for-the-badge
 [license-url]: https://github.com/christianschuler8989/CRAMT/blob/main/LICENSE
-[project-poster-expo-png]: 2024-CRAMT_Poster_Expo-Schuler_Tran_Saurty_Wang_Ahmad_Yimam-1.png
-
+[project-poster-expo-png]: https://github.com/christianschuler8989/CRAMT/blob/main/images/2024-CRAMT_Poster_Expo-Schuler_Tran_Saurty_Wang_Ahmad_Yimam.png
