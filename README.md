@@ -62,7 +62,7 @@
 This tool aims to support low-resource language collection for Machine Translation.
 
 
-[![Project Poster Screen Shot][project-poster-expo-png]](images/2024-CRAMT_Poster_Expo-Schuler_Tran_Saurty_Wang_Ahmad_Yimam.pdf)
+[![Project Poster Screen Shot][project-poster-expo-png]](https://github.com/christianschuler8989/CRAMT/images/2024-CRAMT_Poster_Expo-Schuler_Tran_Saurty_Wang_Ahmad_Yimam.pdf)
 
 
 - [CRAMT-Slides](https://github.com/christianschuler8989/CRAMT-Slides)
