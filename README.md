@@ -1,9 +1,3 @@
-
-# CRAMT: Cross-Lingual Resource Aggregation of Low-Resource Machine Translation and Metadata
-
-# Under Construction (Moving and cleaning code from previous repository)
-
-
 <a name="readme-top"></a>
 
 <!-- PROJECT SHIELDS -->
@@ -32,6 +26,7 @@
   <h3 align="center">CRAMT</h3>
   
   Cross-Lingual Resource Aggregation of Low-Resource Machine Translation and Metadata
+  (Under Construction (Moving and cleaning code from previous repository))
 </div>
 
 
@@ -59,12 +54,14 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Project Name Screen Shot][project-screenshot]]
+[![Project Name Screen Shot][project-screenshot]](https://github.com/christianschuler8989/CRAMT)
 
 This tool aims to support low-resource language collection for Machine Translation.
 
 
 [![Project Poster Screen Shot][project-poster-expo-png]](https://github.com/christianschuler8989/CRAMT/images/2024-CRAMT_Poster_Expo-Schuler_Tran_Saurty_Wang_Ahmad_Yimam.pdf)
+
+- [CRAMT-Slides](https://github.com/christianschuler8989/CRAMT-Slides)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
