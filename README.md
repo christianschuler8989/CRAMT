@@ -13,14 +13,13 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![Apache License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
   <a href="https://github.com/christianschuler8989/CRAMT-Slides">
-    <img src="https://github.com/christianschuler8989/CRAMT-Slides/blob/main/public/title-logo.png" alt="Logo" width="500" height="200">
+    <img src="https://github.com/christianschuler8989/CRAMT-Slides/blob/main/public/title-logo.png" alt="Logo" width="500" height="175">
     <!-- <img src="https://github.com/christianschuler8989/CRAMT-Slides/blob/main/public/title-banner.png" alt="Logo" width="200" height="200"> -->
   </a>
   <h3 align="center">CRAMT</h3>
@@ -53,6 +52,10 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+
+<a href="https://github.com/christianschuler8989/CRAMT-Slides">
+    <img src="https://github.com/christianschuler8989/CRAMT/blob/main/images/title-banner.png" alt="Logo" width="500" height="350">
+</a>
 
 [![Project Name Screen Shot][project-screenshot]](https://github.com/christianschuler8989/CRAMT)
 
@@ -128,6 +131,5 @@ A list of helpful resources we would like to give credit to:
 [issues-url]: https://github.com/christianschuler8989/CRAMT/issues
 [license-shield]: https://img.shields.io/github/license/christianschuler8989/CRAMT.svg?style=for-the-badge
 [license-url]: https://github.com/christianschuler8989/CRAMT/blob/main/LICENSE
-[project-screenshot]: images/title-banner.png
 [project-poster-expo-png]: 2024-CRAMT_Poster_Expo-Schuler_Tran_Saurty_Wang_Ahmad_Yimam-1.png
 
